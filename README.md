@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there :pencil2: :books:
 
-<!--
-**WesleySoarez/WesleySoarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Wesley soares, sou um programador front end, atualmente estou aprendendo e criando projetos com HTML, CSS e estou práticando e iniciando o meu aprendizado de JavaScript e React.
+<br>
+<br>
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conecte-se comigo
+
+<a>https://www.instagram.com/_wesleysoarez_?igsh=aDgyeHo0M2NoYXJz
+
+![WesleySoarez stats](https://github-readme-stats.vercel.app/api?username=WesleySoarez)
+
+
+
+
+
